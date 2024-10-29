@@ -39,6 +39,8 @@ header img {
 @media screen and (max-width: 850px){
 	font-size: 90%;
 }
+@media screen and (max-width: 650px){
+}
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
@@ -50,7 +52,6 @@ main {
 /* the styles for the section */
 section {
 	width: 575px;
-	float: right;
 	padding: 0 20px 20px 20px;
 }
 section h1 {
@@ -80,7 +81,6 @@ article img {
 /* the styles for the aside */
 aside {
 	width: 215px;
-	float: right;
 	padding: 0 0 20px 20px;
 }
 aside h2 {
