@@ -46,6 +46,7 @@ header img {
 }
 /* the styles for the main content */
 main {
+	margin: 0 auto; 
 	clear: left;
 }
 
