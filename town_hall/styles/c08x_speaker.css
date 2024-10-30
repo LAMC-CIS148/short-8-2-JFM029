@@ -51,7 +51,7 @@ main {
 
 /* the styles for the section */
 section {
-	width: 475px;
+	width: 575px;
 	padding: 0 20px 20px 20px;
 }
 section h1 {
@@ -80,7 +80,7 @@ article img {
 
 /* the styles for the aside */
 aside {
-	width: 100px;
+	width: 190px;
 	padding: 0 0 20px 20px;
 }
 aside h2 {
